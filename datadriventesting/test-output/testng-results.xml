@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67194" started-at="2018-11-21T03:25:57Z" finished-at="2018-11-21T03:27:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67194" started-at="2018-11-21T03:25:57Z" finished-at="2018-11-21T03:27:04Z">
+      <class name="readexcelsheet.dataprovider">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:readexcelsheet.dataprovider@30a3107a]" name="setUp" is-config="true" duration-ms="16893" started-at="2018-11-21T03:25:58Z" finished-at="2018-11-21T03:26:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testFacebook(java.lang.String, java.lang.String)[pri:0, instance:readexcelsheet.dataprovider@30a3107a]" name="testFacebook" duration-ms="5209" started-at="2018-11-21T03:26:15Z" data-provider="Test" finished-at="2018-11-21T03:26:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFacebook -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:readexcelsheet.dataprovider@30a3107a]" name="tearDown" is-config="true" duration-ms="2131" started-at="2018-11-21T03:26:20Z" finished-at="2018-11-21T03:26:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:readexcelsheet.dataprovider@30a3107a]" name="setUp" is-config="true" duration-ms="15548" started-at="2018-11-21T03:26:22Z" finished-at="2018-11-21T03:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testFacebook(java.lang.String, java.lang.String)[pri:0, instance:readexcelsheet.dataprovider@30a3107a]" name="testFacebook" duration-ms="4548" started-at="2018-11-21T03:26:38Z" data-provider="Test" finished-at="2018-11-21T03:26:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFacebook -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:readexcelsheet.dataprovider@30a3107a]" name="tearDown" is-config="true" duration-ms="1769" started-at="2018-11-21T03:26:42Z" finished-at="2018-11-21T03:26:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:readexcelsheet.dataprovider@30a3107a]" name="setUp" is-config="true" duration-ms="13623" started-at="2018-11-21T03:26:44Z" finished-at="2018-11-21T03:26:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testFacebook(java.lang.String, java.lang.String)[pri:0, instance:readexcelsheet.dataprovider@30a3107a]" name="testFacebook" duration-ms="4328" started-at="2018-11-21T03:26:58Z" data-provider="Test" finished-at="2018-11-21T03:27:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFacebook -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:readexcelsheet.dataprovider@30a3107a]" name="tearDown" is-config="true" duration-ms="2044" started-at="2018-11-21T03:27:02Z" finished-at="2018-11-21T03:27:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- readexcelsheet.dataprovider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
